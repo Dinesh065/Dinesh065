@@ -1,4 +1,4 @@
-i, I am Dinesh Choudhary.
+Hi, I am Dinesh Choudhary.
 I'm interested in learning new programming languages and exploring upcoming technologies.
 I'm currently learning web development.
 
